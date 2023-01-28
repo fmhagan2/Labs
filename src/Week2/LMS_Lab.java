@@ -45,7 +45,7 @@ public class LMS_Lab {
 		
 		
 		//Rewards Program
-		//NOT SURE RESULT IS WHAT WAS REQUESTED
+		
 		String loyaltyMemberStatus = "GOLD";
 		double loyaltyMemberDiscount = 0.0;
 				

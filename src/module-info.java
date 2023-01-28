@@ -1,9 +1,0 @@
-/**
- * 
- */
-/**
- * @author fmhag
- *
- */
-module Labs {
-}
